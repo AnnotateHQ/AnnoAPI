@@ -12,4 +12,4 @@ mostly, the items in annoapi are specific to proxy building.<br>
 see the [documentation](./docs/1_welcome.md) for all setup and usage info.
 
 <br>
-<h3 align="center">made with ❤️ by <a href="https://github.com/VillainsRule">xthonk</a></h2>
+<h3 align="center">made with ❤️ by <a href="https://github.com/VillainsRule">xthonk</a></h3>
