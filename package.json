@@ -1,0 +1,17 @@
+{
+    "name": "annoapi",
+    "description": "a simple & comprehensive api for proxy services.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "author": "@xthonk",
+    "scripts": {
+        "build": "npx webpack"
+    },
+    "dependencies": {
+        "webpack": "^5.89.0"
+    },
+    "devDependencies": {
+        "webpack-cli": "^5.1.4"
+    }
+}
