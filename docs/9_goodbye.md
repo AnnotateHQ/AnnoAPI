@@ -12,5 +12,5 @@ enjoy <3
 <br>
 <br>
 <div align="center">
-    <a href="./7_storage.md">Previous</a> | Next
+    <a href="./8_storage.md">Previous</a> | Next
 </div>

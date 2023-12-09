@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><a href="https://aapi.annotate.lol">annoapi</a></h1>
+    <h1>annoapi</h1>
     <h3>a simple & comprehensive api for proxy services.</h3>
 </div><br>
 

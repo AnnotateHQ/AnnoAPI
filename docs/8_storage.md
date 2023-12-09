@@ -31,5 +31,5 @@ example: `aapi.storage.refresh()`
 <br>
 <br>
 <div align="center">
-    <a href="./6_panickey.md">Previous</a> | <a href="./8_goodbye.md">Next</a>
+    <a href="./7_file.md">Previous</a> | <a href="./9_goodbye.md">Next</a>
 </div>

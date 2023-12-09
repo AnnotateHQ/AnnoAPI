@@ -36,5 +36,5 @@ example: `aapi.panic.force()`
 <br>
 <br>
 <div align="center">
-    <a href="./5_cloaking.md">Previous</a> | <a href="./7_storage.md">Next</a>
+    <a href="./5_cloaking.md">Previous</a> | <a href="./7_file.md">Next</a>
 </div>
