@@ -1,15 +1,9 @@
 {
     "name": "annoapi",
+    "version": "1.0.1",
     "description": "a simple & comprehensive api for proxy services.",
     "main": "src/main.js",
     "type": "module",
-    "author": "@xthonk",
-
-    "scripts": {
-        "build": "npx vite build"
-    },
-    
-    "dependencies": {
-        "vite": "^5.0.7"
-    }
+    "author": "xthonk",
+    "kewords": ["proxy", "unblock", "annoapi", "titanium network", "ultraviolet"]
 }

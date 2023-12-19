@@ -1,0 +1,15 @@
+{
+    "name": "annoapi",
+    "description": "a simple & comprehensive api for proxy services.",
+    "main": "src/main.js",
+    "type": "module",
+    "author": "@xthonk",
+
+    "scripts": {
+        "build": "npx vite build --emptyOutDir"
+    },
+    
+    "dependencies": {
+        "vite": "^5.0.7"
+    }
+}
